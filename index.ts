@@ -68,6 +68,7 @@ function testClaseBanda() {
 
 function main() {
   testClaseBanda();
+console.log("soy un cambio de github que me voy a actualizar en el repo remoto visual code");
 }
 
 main();
